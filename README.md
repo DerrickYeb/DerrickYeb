@@ -15,7 +15,7 @@
 
 ### Languages
 
-![csharp](https://img.shields.io/badge/Csharp-3178C6?style=for-the-badge&logo=c#&logoColor=239120)
+![c#](https://img.shields.io/badge/C#-3178C6?style=for-the-badge&logo=c#&logoColor=239120)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/PostgreSQL-28B6F6?style=for-the-badge&logo=postgreSQL&logoColor=white)
@@ -69,9 +69,9 @@
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=DerrickkYeb&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=DerrickYeb&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=DerrickkYeb&show_icons=true&hide_border=true" alt="Derrick Yeboah's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DerrickYeb&show_icons=true&hide_border=true" alt="Derrick Yeboah's GitHub Stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=DerrickkYeb.DerrickkYeb" alt="visitors">
 </div>
