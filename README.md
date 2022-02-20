@@ -15,7 +15,7 @@
 
 ### Languages
 
-![csharp](https://img.shields.io/badge/C#-13324B?style=for-the-badge&logo=csharp&logoColor=white)
+![csharp](https://img.shields.io/badge/Csharp-13324B?style=for-the-badge&logo=csharp&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/PostgreSQL-28B6F6?style=for-the-badge&logo=postgreSQL&logoColor=white)
