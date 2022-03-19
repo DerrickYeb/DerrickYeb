@@ -4,7 +4,7 @@
 
 🎓 I am Derrick Yeboah, a **Backend Developer** (specializing in **.Net Applications**) I am also Pursuing my Bachelor in **Information Technology** and will graduate in mid-2022.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Microsoft** and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Typescript**, **Microservices Architecture** and **Kafka**.
+👨‍💻  I am really enthusiastic about learning new technology. In 2021, I learned **Typescript**, **Microservices Architecture** and **Kafka**.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **soccer**, **music (hip-hop)**.
 
