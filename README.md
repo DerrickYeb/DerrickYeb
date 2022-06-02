@@ -59,7 +59,7 @@
 ## 🖥️ Workspace Setup
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![visual studio](https://img.shields.io/badge/Visual-Studio-007ACC?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 
