@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-🎓 I am Derrick Yeboah, a **Backend Developer** (specializing in **.Net Applications**) I am also Pursuing my Bachelor in **Information Technology** and will graduate in mid-2022.
+🎓 I am Derrick Yeboah, a **Backend Developer** (specializing in **.Net Applications**) Graduate in Bachelor of Science **Information Technology**.
 
 👨‍💻  I am really enthusiastic about learning new technology. In 2021, I learned **Typescript**, **Microservices Architecture** and **Kafka**.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **soccer**, **music (hip-hop)**.
+🎸 Outside the tech world too, I enjoy pushing myself to develop new skills. My hobbies range from **soccer**to **music (hip-hop)**.
 
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
+📚 I also love reading books on **personal development** & **financial literacy**. My favourite ones are **The Compound Effect** by _Darren Hardy_ in the personal development genre and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
 
 ## 🛠️ Skills
@@ -24,6 +24,7 @@
 ### Front-End Development
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![next-js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,10 +34,11 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-### Cross Platform Development
+### Cross-Platform Development
 
 ![xamarin](https://img.shields.io/badge/Xamarin-28B6F6?style=for-the-badge&logo=xamarin&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
+![react](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
