@@ -1,0 +1,8 @@
+<svg width="900" height="52" viewBox="0 0 900 52" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="900" height="52" rx="10" fill="#0d1117"/>
+  <rect x="0" y="0" width="900" height="52" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+  <circle cx="24" cy="26" r="7" fill="#ff5f56"/>
+  <circle cx="46" cy="26" r="7" fill="#ffbd2e"/>
+  <circle cx="68" cy="26" r="7" fill="#27c93f"/>
+  <text x="450" y="32" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#8b949e" text-anchor="middle">derrick@yeboah: ~</text>
+</svg>
