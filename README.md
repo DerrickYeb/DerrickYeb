@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5340ff,100:61DAFB&height=200&section=header&text=Derrick%20Yeboah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20.NET%20Specialist&descAlignY=58&descSize=18" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5340ff,100:61DAFB&height=200&section=header&text=Derrick%20Yeboah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20.NET%20Specialist&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
 
 # Hi, I'm Derrick Yeboah 👋
 
-### Software Engineer · NodeJs · .NET Specialist · Lifelong Learner
+### Backend Developer · .NET Specialist · Lifelong Learner
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+.NET;Microservices+%26+Event-Driven+Systems;Always+learning+something+new;Football+fan+%7C+Hip-Hop+head;&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%40+.NET;Microservices+%26+Event-Driven+Systems;Always+learning+something+new;Football+fan+%7C+Hip-Hop+head;&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://derrickyeb.github.io/personal/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/derrick-yeboah-66186b12b/)
@@ -24,6 +24,7 @@
 ```yaml
 name: Derrick Yeboah
 role: Backend Developer (.NET specialist)
+education: B.Sc. Information Technology
 currently_exploring: TypeScript · Microservices Architecture · Kafka
 hobbies: [Soccer ⚽, Hip-Hop 🎸]
 reading:
@@ -31,7 +32,7 @@ reading:
   financial_literacy: "Rich Dad Poor Dad — Robert Kiyosaki"
 ```
 
-I'm a backend developer who specialises in **.NET applications**, with a Bachelor's degree. I'm genuinely enthusiastic about picking up new technology — in 2021 that meant diving into **TypeScript**, **Microservices Architecture**, and **Kafka**.
+I'm a backend developer who specializes in **.NET applications**, with a Bachelor's degree in Information Technology. I'm genuinely enthusiastic about picking up new technology — in 2021 that meant diving into **TypeScript**, **Microservices Architecture**, and **Kafka**.
 
 Off the keyboard, I chase two very different kinds of growth: on the pitch playing **soccer** and behind the mic vibing to **hip-hop** — and on the page, through personal development and financial literacy reads.
 
@@ -124,19 +125,26 @@ Off the keyboard, I chase two very different kinds of growth: on the pitch playi
 <a href="https://github.com/DerrickYeb/saga-orchestrator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=saga-orchestrator&theme=tokyonight&hide_border=true" width="48%" />
 </a>
-<a href="https://github.com/DerrickYeb?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=payment-webhook-processor&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/DerrickYeb/farmhand">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=farmhand&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 <br/>
 
-<a href="https://github.com/DerrickYeb?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=farmhand&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/DerrickYeb/payment-processor-webhook">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=payment-processor-webhook&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/DerrickYeb/payment-gateway">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=payment-gateway&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+
+<br/>
+
+<a href="https://github.com/DerrickYeb/enterprise-workflow-approval-engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=enterprise-workflow-approval-engine&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 </div>
-
-> ⚠️ Replace `REPO_ONE`, `REPO_TWO`, `REPO_THREE`, `REPO_FOUR` with your actual repository names — this widget only renders real repos it can find on your account.
 
 <br/>
 
