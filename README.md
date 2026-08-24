@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5340ff,100:61DAFB&height=200&section=header&text=Derrick%20Yeboah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20.NET%20Specialist&descAlignY=58&descSize=18" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5340ff,100:61DAFB&height=200&section=header&text=Derrick%20Yeboah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20.NET%20Specialist&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
 
@@ -32,7 +32,7 @@ reading:
   financial_literacy: "Rich Dad Poor Dad — Robert Kiyosaki"
 ```
 
-I'm a backend developer who specializes in **.NET applications**, with a Bachelor's degree in Information Technology. I'm genuinely enthusiastic about picking up new technology — in 2021 that meant diving into **TypeScript**, **Microservices Architecture**, and **Kafka**.
+I'm a backend developer who specialises in **.NET applications**, with a Bachelor's degree. I'm genuinely enthusiastic about picking up new technology — in 2021 that meant diving into **TypeScript**, **Microservices Architecture**, and **Kafka**.
 
 Off the keyboard, I chase two very different kinds of growth: on the pitch playing **soccer** and behind the mic vibing to **hip-hop** — and on the page, through personal development and financial literacy reads.
 
@@ -123,19 +123,16 @@ Off the keyboard, I chase two very different kinds of growth: on the pitch playi
 <div align="center">
 
 <a href="https://github.com/DerrickYeb?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=REPO_ONE&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=saga-orchestrator&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/DerrickYeb?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=REPO_TWO&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=payment-webhook-processor&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 <br/>
 
 <a href="https://github.com/DerrickYeb?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=REPO_THREE&theme=tokyonight&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/DerrickYeb?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=REPO_FOUR&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=farmhand&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 </div>
