@@ -8,7 +8,7 @@
 
 ### Software Engineer · NodeJs · .NET Specialist · Lifelong Learner
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%40+.NET;Microservices+%26+Event-Driven+Systems;Always+learning+something+new;Football+fan+%7C+Hip-Hop+head;&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+.NET;Microservices+%26+Event-Driven+Systems;Always+learning+something+new;Football+fan+%7C+Hip-Hop+head;&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://derrickyeb.github.io/personal/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/derrick-yeboah-66186b12b/)
@@ -24,7 +24,6 @@
 ```yaml
 name: Derrick Yeboah
 role: Backend Developer (.NET specialist)
-education: B.Sc. Information Technology
 currently_exploring: TypeScript · Microservices Architecture · Kafka
 hobbies: [Soccer ⚽, Hip-Hop 🎸]
 reading:
@@ -122,7 +121,7 @@ Off the keyboard, I chase two very different kinds of growth: on the pitch playi
 
 <div align="center">
 
-<a href="https://github.com/DerrickYeb?tab=repositories">
+<a href="https://github.com/DerrickYeb/saga-orchestrator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerrickYeb&repo=saga-orchestrator&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/DerrickYeb?tab=repositories">
