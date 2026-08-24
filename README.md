@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/terminal-bar.svg" width="100%" alt="terminal title bar"/>
+<img src="./terminal-bar.svg" width="100%" alt="terminal title bar"/>
 
 <br/>
 
 <table>
 <tr>
 <td width="180" align="center">
-<img src="./assets/avatar-pixel.png" width="160" height="160" alt="pixel avatar" style="image-rendering: pixelated;"/>
+<img src="./avatar-pixel.png" width="160" height="160" alt="pixel avatar" style="image-rendering: pixelated;"/>
 <br/>
 <sub><code>avatar.png</code> · 48×48px</sub>
 </td>
